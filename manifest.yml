@@ -1,4 +1,2 @@
 applications:
 - name: pyramid-simplest
-  framework:
-    name: python
