@@ -6,6 +6,6 @@
     pypm install gunicorn
     gunicorn wsgi
 
-## Deploying to Stackato
+## Deploying to HPE Helion Stackato
 
-    stackato push pyramid-simplest
+    stackato push -n
